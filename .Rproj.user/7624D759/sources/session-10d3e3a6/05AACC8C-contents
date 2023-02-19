@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "blog"
+  title: "Mllstrm blogg"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/mllstrm
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/mllstrm1
 format:
   html:
     theme: cosmo

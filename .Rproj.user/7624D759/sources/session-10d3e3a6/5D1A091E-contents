@@ -1,0 +1,13 @@
+---
+title: "Ett inlägg med kod"
+author: "Henrik Mellström Dahlgren"
+date: "2023-02-19"
+categories: [kod, R]
+image: "image.jpg"
+---
+
+Ett inlägg med kod som går att kopiera.
+
+```{r}
+1 + 1
+```

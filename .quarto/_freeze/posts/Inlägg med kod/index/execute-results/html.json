@@ -1,0 +1,14 @@
+{
+  "hash": "1f739fbf4d70f341166d7df9f9199715",
+  "result": {
+    "markdown": "---\ntitle: \"Ett inlägg med kod\"\nauthor: \"Henrik Mellström Dahlgren\"\ndate: \"2023-02-19\"\ncategories: [kod, R]\nimage: \"image.jpg\"\n---\n\n\nEtt inlägg med kod som går att kopiera.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

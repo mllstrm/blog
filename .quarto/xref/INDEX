@@ -13,5 +13,11 @@
   },
   "posts/welcome/index.qmd": {
     "index.html": "7cfc06c7"
+  },
+  "posts/Inlägg med kod/index.qmd": {
+    "index.html": "402c8525"
+  },
+  "posts/Korruption/index.qmd": {
+    "index.html": "045ece71"
   }
 }
