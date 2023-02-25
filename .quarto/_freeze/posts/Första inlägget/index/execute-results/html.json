@@ -1,0 +1,14 @@
+{
+  "hash": "b01717f2ee462a456328f7410c767eab",
+  "result": {
+    "markdown": "---\ntitle: \"Första inlägget\"\nauthor: \"Henrik Mellström Dahlgren\"\ndate: \"2023-02-24\"\ncategories: [epidemiologi]\nimage: \"sarscov2.png\"\n---\n\n\nTestar att skapa en blogg med R-studio. Det är ingen som bryr sig om bloggar längre och formatet är antagligen helt irrelevant. Men det får duga. Tanken är att samla tankar kring olika artiklar som jag läser och att kanske framför allt att börja bearbeta covid-19 pandemin.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
