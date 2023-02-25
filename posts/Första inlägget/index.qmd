@@ -1,0 +1,14 @@
+---
+title: "Första inlägget"
+author: "Henrik Mellström Dahlgren"
+date: "2023-02-24"
+categories: [epidemiologi]
+image: "sarscov2.png"
+---
+
+Testar att skapa en blogg med R-studio. Det är ingen som bryr sig om bloggar längre och formatet är antagligen helt irrelevant. Men det får duga. Tanken är att samla tankar kring olika artiklar som jag läser och att kanske framför allt att börja bearbeta covid-19 pandemin.
+
+```{r}
+1+1
+
+```
