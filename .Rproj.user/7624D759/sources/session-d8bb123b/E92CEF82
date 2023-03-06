@@ -3,7 +3,7 @@
     "path": "C:/Users/henri/Desktop/blog/posts/Vaccintäckning Göteborg/index.qmd",
     "project_path": "posts/Vaccintäckning Göteborg/index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2353120078",
     "contents": "",
     "dirty": false,
     "created": 1677707096842.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "149:0",
+        "rmdVisualModeLocation": "4067:2399",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678016557,
+    "lastKnownWriteTime": 1678132327,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678016557561,
+    "last_content_update": 1678132327301,
     "read_only": false,
     "read_only_alternatives": []
 }
