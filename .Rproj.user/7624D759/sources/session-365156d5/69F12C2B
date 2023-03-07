@@ -1,12 +1,12 @@
 {
-    "id": "1B08ED8E",
-    "path": "C:/Users/henri/Desktop/blog/posts/Fågelinfluensa H5N1/index.qmd",
-    "project_path": "posts/Fågelinfluensa H5N1/index.qmd",
+    "id": "69F12C2B",
+    "path": "C:/Users/henri/Desktop/blog/posts/Vaccintäckning Göteborg/index.qmd",
+    "project_path": "posts/Vaccintäckning Göteborg/index.qmd",
     "type": "quarto_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1678137581379.0,
+    "created": 1678167901511.0,
     "source_on_save": false,
     "relative_order": 2,
     "properties": {
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "119:0",
+        "rmdVisualModeLocation": "2:0",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1678137815,
+    "lastKnownWriteTime": 1678016557,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1678137815787,
+    "last_content_update": 1678016557,
     "read_only": false,
     "read_only_alternatives": []
 }

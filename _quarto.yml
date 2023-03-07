@@ -10,6 +10,8 @@ website:
         href: https://github.com/mllstrm
       - icon: twitter
         href: https://twitter.com/mllstrm1
+      - icon: mastodon
+        href: https://mastodon.nu/@mllstrm
 format:
   html:
     theme: cosmo
