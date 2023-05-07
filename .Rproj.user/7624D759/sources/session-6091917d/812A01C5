@@ -3,7 +3,7 @@
     "path": "C:/Users/henri/Desktop/blog/posts/Förtroendet/index.qmd",
     "project_path": "posts/Förtroendet/index.qmd",
     "type": "quarto_markdown",
-    "hash": "2918782286",
+    "hash": "3434337177",
     "contents": "",
     "dirty": false,
     "created": 1683485956811.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2128:2576",
+        "rmdVisualModeLocation": "391:52",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1683487472,
+    "lastKnownWriteTime": 1683492508,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1683487472550,
+    "last_content_update": 1683492508702,
     "read_only": false,
     "read_only_alternatives": []
 }
